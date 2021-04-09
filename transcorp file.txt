@@ -1,0 +1,62 @@
+Transcorp Power
+ABOUTOPERATIONSINVESTOR RELATIONSSAFETY POLICYMEDIACONTACT
+Transforming NIGERIABusinessesNIGERIAHealthcareNIGERIAEducationNIGERIAHomes
+At Transcorp Power we understand every additional megawatt we generate will power more schools, homes, hospitals and businesses.
+
+WATCH THE VIDEO
+ABOUT TRANSCORP POWER
+Transcorp Power is consistently leading power generating companies in Nigeria in electricity generated and wheeled unto the national grid.
+LEARN MORE
+
+POWER STATIONS
+We have an installed capacity of 900MW.
+
+
+OUR PEOPLE
+With over 49 years of service we provide auxillary facilities for staff such as housing, medicare and school.
+
+SUSTAINABILITY
+Our business positively impacts our employees and the communities where they work and live.
+LEARN MORE
+
+NEWS & MEDIA
+The latest Transcorp Power reports, corporate announcements, noticies and updates.
+LEARN MORE
+To meet Nigeria’s power needs, our available capacity must translate into electricity that meets customers’ needs
+JUNE 16, 2020
+Transcorp Group Announces Significant New Executive and Non-Executive Board Appointments
+FEBRUARY 12, 2020
+Transcorp Power Limited Deepens Local Impact with Community School Upgrades
+JANUARY 29, 2019
+Power Business Boosts Transcorp Q1 Profit By 242.27%
+JUNE 5, 2018
+Shareholders commend Transcorp for Industry Leading Role in Improving Access to Electricity in Nigeria
+MAY 4, 2018
+We are leading the way in energy generation for millions of people in Nigeria and West Africa​
+Email
+Enter your email address for updates
+
+SUBSCRIBE
+
+font-family: Arial, Helvetica, sans-serif;
+hyphens: manual;
+font-style: normal;
+line-height: 1.2;
+font-weight: 700;
+text-align: left;
+-webkit-font-smoothing: antialiased;
+font-size: 100%;
+margin: 0;
+padding: 0;
+border: 0;
+box-sizing: border-box;
+display: inline-block;
+position: absolute;
+top: 0;
+left: 0;
+white-space: nowrap;
+color: #ff8700;
+opacity: 1;
+
+utilities: color: #ff8700;
+font-family: Century Gothic!important;
